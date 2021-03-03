@@ -65,6 +65,7 @@ temp<- (damping_factor)*temp +(1-damping_factor)/N
 
 x2<-matrix(c(0,0.5,0,0,0.5,0), nrow=1)
 
+##Reaching Stationarity
 for(i in 1:90)
 {
   x2<- eigenMapMatMult(x2, temp)
