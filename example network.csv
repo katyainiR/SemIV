@@ -1,10 +1,10 @@
 Source(S),Destination(D)
-A,B
-B,A
-B,C
-C,B
-D,E
-E,F
-F,D
-F,E
-F,G
+Page 1,Page 2
+Page 2,Page 1
+Page 2,Page 3
+Page 3,Page 2
+Page 4,Page 5
+Page 5,Page 6
+Page 6,Page 4
+Page 6,Page 5
+Page 6,Page 7
